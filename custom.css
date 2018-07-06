@@ -241,7 +241,6 @@ body {
 
 .buy a {
   transition: .3s;
-  background-position: 50px left;
   background-image: url(img/wave.png);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
