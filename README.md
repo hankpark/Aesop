@@ -7,11 +7,6 @@ Support  : **IE9+**
 Used library :   
 **fittext js**, **lettering js**, **textillate js**, **wavify js**, **ScrollTrigger js**, **slick js**   
 
-
-## Introduction to the web
-
-Yet.
-
 ## Preview
 [Static Site](https://hankpark.github.io/Aesop/)
 
@@ -21,7 +16,7 @@ Yet.
 **HTML5**   
 **CSS3**   
 **ECMAScript 5**   
-**jQuery 1.6.1**
+**jQuery 3.1.1**
 
 
 ## Info
