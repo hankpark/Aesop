@@ -21,7 +21,7 @@ Yet.
 **HTML5**   
 **CSS3**   
 **ECMAScript 5**   
-**jQuery 3.1.1**
+**jQuery 1.6.1**
 
 
 ## Info
